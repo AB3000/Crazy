@@ -1,0 +1,427 @@
+fileFormatVersion: 2
+guid: 7b2cf04ce77dc405783ea72c3bf2c202
+timeCreated: 1529202379
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: character_hair_0
+    21300002: character_hair_1
+    21300004: character_hair_2
+    21300006: character_hair_3
+    21300008: character_hair_4
+    21300010: character_hair_5
+    21300012: character_hair_6
+    21300014: character_hair_7
+    21300016: character_hair_8
+    21300018: character_hair_9
+    21300020: character_hair_10
+    21300022: character_hair_11
+    21300024: character_hair_12
+    21300026: character_hair_13
+    21300028: character_hair_14
+    21300030: character_hair_15
+    21300032: character_hair_16
+    21300034: character_hair_17
+    21300036: character_hair_18
+    21300038: character_hair_19
+    21300040: character_hair_20
+    21300042: character_hair_21
+    21300044: character_hair_22
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_hair_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1844
+        width: 124
+        height: 184
+      alignment: 9
+      pivot: {x: 0.59848917, y: 0.4383684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_hair_1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1909
+        width: 102
+        height: 128
+      alignment: 9
+      pivot: {x: 0.42039955, y: 0.08558178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_hair_2
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1908
+        width: 105
+        height: 112
+      alignment: 9
+      pivot: {x: 0.363612, y: 0.058571953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_hair_3
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1911
+        width: 118
+        height: 102
+      alignment: 9
+      pivot: {x: 0.52672976, y: 0.0951574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_hair_4
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1935
+        width: 101
+        height: 78
+      alignment: 9
+      pivot: {x: 0.4048051, y: -0.25779998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_hair_5
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1958
+        width: 79
+        height: 55
+      alignment: 9
+      pivot: {x: 0.36215866, y: -0.60132277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_hair_6
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1879
+        width: 94
+        height: 149
+      alignment: 9
+      pivot: {x: 0.50364715, y: 0.35739812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_hair_7
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1992
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_hair_8
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1828
+        width: 94
+        height: 209
+      alignment: 9
+      pivot: {x: 0.37821278, y: 0.52347666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_hair_9
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 1943
+        width: 117
+        height: 101
+      alignment: 9
+      pivot: {x: 0.53494656, y: 0.022330407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_hair_10
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 1947
+        width: 114
+        height: 90
+      alignment: 9
+      pivot: {x: 0.47131026, y: -0.16324599}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_hair_11
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 1947
+        width: 109
+        height: 89
+      alignment: 9
+      pivot: {x: 0.4070205, y: -0.25916487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_hair_12
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1867
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_hair_13
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1612
+        width: 136
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5319839, y: 0.4556966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_hair_14
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1588
+        width: 122
+        height: 212
+      alignment: 9
+      pivot: {x: 0.6220636, y: 0.53415895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_hair_15
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1680
+        width: 125
+        height: 122
+      alignment: 9
+      pivot: {x: 0.4519082, y: 0.06981421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_hair_16
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1655
+        width: 142
+        height: 157
+      alignment: 9
+      pivot: {x: 0.6602637, y: 0.19558385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_hair_17
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1686
+        width: 110
+        height: 126
+      alignment: 9
+      pivot: {x: 0.472411, y: 0.17487831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_hair_18
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1679
+        width: 105
+        height: 126
+      alignment: 9
+      pivot: {x: 0.48576775, y: 0.22721548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_hair_19
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1548
+        width: 140
+        height: 244
+      alignment: 9
+      pivot: {x: 0.48932582, y: 0.5122495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_hair_20
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1655
+        width: 133
+        height: 101
+      alignment: 9
+      pivot: {x: 0.4494372, y: -0.12882528}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_hair_21
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1627
+        width: 101
+        height: 165
+      alignment: 9
+      pivot: {x: 0.42454845, y: 0.34989864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_hair_22
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1976
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
